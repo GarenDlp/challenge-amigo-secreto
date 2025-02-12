@@ -10,4 +10,4 @@ Este es un proyecto simple de una aplicación web para gestionar una lista de am
 4. Sorteo aleatorio: Al hacer clic en el botón "Sortear amigo", se selecciona aleatoriamente un nombre de la lista y se muestra en la página.
 5. Límite de entradas: La lista puede contener un máximo de 10 amigos (este límite puede ser modificado ajustando la variable `maxAmigos` en el archivo JavaScript).
 
-## Estructura de Archivos
+
